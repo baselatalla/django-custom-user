@@ -30,4 +30,4 @@ For this lab you'll build your application from the very beginning with a Custom
 
 ## Links:
 
-PR Link :[lab28](https://github.com/baselatalla/django-custom-user/pull/1)
+PR Link :[lab29](https://github.com/baselatalla/django-custom-user/pull/1)
